@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\RazaAndCo_Test\\JobAssessment\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F50BF183-5A86-402C-8349-27535BBC9EE6}|JobAssessment.Infrastructure\\JobAssessment.Infrastructure.csproj|d:\\razaandco_test\\jobassessment\\jobassessment.infrastructure\\data\\seeding\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50BF183-5A86-402C-8349-27535BBC9EE6}|JobAssessment.Infrastructure\\JobAssessment.Infrastructure.csproj|solutionrelative:jobassessment.infrastructure\\data\\seeding\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "D:\\RazaAndCo_Test\\JobAssessment\\JobAssessment.Infrastructure\\Data\\Seeding\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "JobAssessment.Infrastructure\\Data\\Seeding\\DbSeeder.cs",
+              "ToolTip": "D:\\RazaAndCo_Test\\JobAssessment\\JobAssessment.Infrastructure\\Data\\Seeding\\DbSeeder.cs",
+              "RelativeToolTip": "JobAssessment.Infrastructure\\Data\\Seeding\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T14:58:40.683Z",
+              "EditorCaption": ""
             }
           ]
         }
