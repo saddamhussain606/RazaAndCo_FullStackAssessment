@@ -1,0 +1,15 @@
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Application\obj\Debug\net9.0\JobAssessment.Application.csproj.AssemblyReference.cache
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Application\obj\Debug\net9.0\JobAssessment.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Application\obj\Debug\net9.0\JobAssessment.Application.AssemblyInfoInputs.cache
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Application\obj\Debug\net9.0\JobAssessment.Application.AssemblyInfo.cs
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Application\obj\Debug\net9.0\JobAssessment.Application.csproj.CoreCompileInputs.cache
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Application\bin\Debug\net9.0\JobAssessment.Application.deps.json
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Application\bin\Debug\net9.0\JobAssessment.Application.dll
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Application\bin\Debug\net9.0\JobAssessment.Application.pdb
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Application\bin\Debug\net9.0\JobAssessment.Domain.dll
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Application\bin\Debug\net9.0\JobAssessment.Domain.pdb
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Application\obj\Debug\net9.0\JobAsses.33E35FAB.Up2Date
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Application\obj\Debug\net9.0\JobAssessment.Application.dll
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Application\obj\Debug\net9.0\refint\JobAssessment.Application.dll
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Application\obj\Debug\net9.0\JobAssessment.Application.pdb
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Application\obj\Debug\net9.0\ref\JobAssessment.Application.dll

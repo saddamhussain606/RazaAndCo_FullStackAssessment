@@ -1,0 +1,11 @@
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Domain\bin\Debug\net9.0\JobAssessment.Domain.deps.json
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Domain\bin\Debug\net9.0\JobAssessment.Domain.dll
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Domain\bin\Debug\net9.0\JobAssessment.Domain.pdb
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Domain\obj\Debug\net9.0\JobAssessment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Domain\obj\Debug\net9.0\JobAssessment.Domain.AssemblyInfoInputs.cache
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Domain\obj\Debug\net9.0\JobAssessment.Domain.AssemblyInfo.cs
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Domain\obj\Debug\net9.0\JobAssessment.Domain.csproj.CoreCompileInputs.cache
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Domain\obj\Debug\net9.0\JobAssessment.Domain.dll
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Domain\obj\Debug\net9.0\refint\JobAssessment.Domain.dll
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Domain\obj\Debug\net9.0\JobAssessment.Domain.pdb
+D:\RazaAndCo_Test\JobAssessment\JobAssessment.Domain\obj\Debug\net9.0\ref\JobAssessment.Domain.dll
